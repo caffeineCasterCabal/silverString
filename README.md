@@ -18,7 +18,7 @@ Main for silverString Proj. Actual product name TBD.
 ### How do I get set up? ###
 
 Download and install Android SDK +(bells and whistles)
-Downinll Source Tree
+Downinll Github Desktop
 Git Gud.
 ### Contribution guidelines ###
 Comment somtimes.
