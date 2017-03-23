@@ -1,7 +1,15 @@
 [
     {
+        "merged": "F:\\Code\\sS\\silverString\\sS\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Void\\.android\\build-cache\\6d100f6851eaa1041439c6950f576b9049bb9bd6\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "F:\\Code\\TEMP\\sS\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\Void\\.android\\build-cache\\6d100f6851eaa1041439c6950f576b9049bb9bd6\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "F:\\Code\\sS\\silverString\\sS\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Void\\.android\\build-cache\\6d100f6851eaa1041439c6950f576b9049bb9bd6\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "F:\\Code\\TEMP\\sS\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",

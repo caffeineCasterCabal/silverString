@@ -1,11 +1,11 @@
 Executable : F:\Code\Android2.0\Virtua\cmake\3.6.3155560\bin\cmake.exe
 arguments : 
--HF:\Code\TEMP\sS\app
--BF:\Code\TEMP\sS\app\.externalNativeBuild\cmake\debug\mips64
+-HF:\Code\sS\silverString\sS\app
+-BF:\Code\sS\silverString\sS\app\.externalNativeBuild\cmake\debug\mips64
 -GAndroid Gradle - Ninja
 -DANDROID_ABI=mips64
 -DANDROID_NDK=F:\Code\Android2.0\Virtua\ndk-bundle
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=F:\Code\TEMP\sS\app\build\intermediates\cmake\debug\obj\mips64
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=F:\Code\sS\silverString\sS\app\build\intermediates\cmake\debug\obj\mips64
 -DCMAKE_BUILD_TYPE=Debug
 -DCMAKE_MAKE_PROGRAM=F:\Code\Android2.0\Virtua\cmake\3.6.3155560\bin\ninja.exe
 -DCMAKE_TOOLCHAIN_FILE=F:\Code\Android2.0\Virtua\ndk-bundle\build\cmake\android.toolchain.cmake
